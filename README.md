@@ -47,7 +47,7 @@ Specifier                |Output                        |Examples |
 |----------------|-------------------------------|-----------------------------|
 | `c` | Character | y |
 | `d` or `i` | Signed integer | 1024, -1024 |
-| `s` | String of characters | Hello Holberton |
+| `s` | String of characters | Hello ALX|
 | `b` | Binary Representation of unsigned integer | 01010110 |
 | `u` | Unsigned integer | 1024 |
 | `o` | Unsigned octal | 432 |
