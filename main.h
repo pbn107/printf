@@ -16,8 +16,8 @@
 
 typedef struct format
 {
-        char *id;
-        int (*f)();
+	char *id;
+	int (*f)();
 } convert_match;
 
 int printf_pointer(va_list val);
@@ -44,5 +44,4 @@ int printf_string(va_list val);
 int _putchar(char c);
 int _printf(const char *format, ...);
 
-#endifls
-
+#endif
